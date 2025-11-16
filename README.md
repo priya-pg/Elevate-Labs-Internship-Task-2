@@ -2,8 +2,8 @@
 
 ## Superstore Sales Dashboard — Power BI 
 
-This project analyzes the Sample Superstore dataset and presents key sales insights through an interactive Power BI dashboard.
-The dashboard is designed using field parameters, dynamic titles, and dynamic formatting, enabling users to switch between multiple metrics without recreating visuals.
+This project analyzes the Sample Superstore dataset and presents key sales insights through an interactive Power BI dashboard of 3 pages in total. "Overview", "Detailed View" and "Insights". 
+The dashboard is designed using field parameters, dynamic titles, and dynamic formatting, enabling users to switch between multiple metrics without recreating visuals or using extra pages.
 
 ## Objective
 
